@@ -1,0 +1,16 @@
+{
+  "name": "sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web/dev-server": "^0.1.29",
+    "@web/dev-server-storybook": "^0.4.2"
+  }
+}
